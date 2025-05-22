@@ -4,7 +4,7 @@
 
 ## 🌐 Demo
 
-🔗 [Ver el proyecto en línea](https://tuenlace.com](https://gutierrezcesar.github.io/WaveCast/) 
+🔗 [WaveCast](https://gutierrezcesar.github.io/WaveCast/)
 
 ## 🖼️ Vista previa
 
